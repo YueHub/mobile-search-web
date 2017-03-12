@@ -1,0 +1,252 @@
+2017-01-16 15:13:42,610 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': -2137317825007830637, 'ts': Timestamp(1484550767, 9), 'o': {'webUrlMd5': '436D1DA360F296CB2D31B573AEFB28A7', 'from_app': 'webpage_com_douban_movie', 'name': '血战钢锯岭 Hacksaw Ridge', 'documentId': 'webpage_com_douban_movie_10', 'information': '导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532', 'type': 'Moive', 'content': '{"information": "导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532", "name": "血战钢锯岭 Hacksaw Ridge", "introduction": "\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……", "comments": [{"text": "想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。", "time": "", "author": "Leony"}, {"text": "美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹", "time": "", "author": "冷杉"}, {"text": "3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。", "time": "", "author": "王大根"}, {"text": "8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！", "time": "", "author": "二月鸟语"}], "score": "8.8", "year": "(2016)"}', 'activityName': 'com.douban.movie.app.SubjectActivity', 'params': '{"movieID":"26325320"}', 'year': '(2016)', 'title': '血战钢锯岭 Hacksaw Ridge', 'score': '8.8', 'introduction': '\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……', 'webUrl': 'https://movie.douban.com/subject/26325320/', 'packageName': 'com.douban.movie', 'crawlTimestamp': '1483798923107', 'comments': [{'author': 'Leony', 'text': '想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。', 'time': ''}, {'author': '冷杉', 'text': '美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹', 'time': ''}, {'author': '王大根', 'text': '3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。', 'time': ''}, {'author': '二月鸟语', 'text': '8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！', 'time': ''}]}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+2017-01-16 15:13:43,036 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': -4018465960520034524, 'ts': Timestamp(1484550767, 11), 'o': {'information': '导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074', 'from_app': 'webpage_com_douban_movie', 'introduction': '\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。', 'webUrlMd5': 'D02F5A1F3D69FB457C73C28C80524E5D', 'comments': [{'author': 'Ruby超人小姐', 'text': '看不懂【东邪西毒】的时候就看【东成西就】。', 'time': ''}, {'author': '狮子真好吃啊', 'text': '梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了', 'time': ''}, {'author': 'MIFFYGAGA', 'text': '向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!', 'time': ''}, {'author': '苏比', 'text': '还是不喜欢。', 'time': ''}], 'type': 'Moive', 'content': '{"information": "导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074", "name": "射雕英雄传之东成西就 射鵰英雄傳之東成西就", "introduction": "\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。", "comments": [{"text": "看不懂【东邪西毒】的时候就看【东成西就】。", "time": "", "author": "Ruby超人小姐"}, {"text": "梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了", "time": "", "author": "狮子真好吃啊"}, {"text": "向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!", "time": "", "author": "MIFFYGAGA"}, {"text": "还是不喜欢。", "time": "", "author": "苏比"}], "score": "8.7", "year": "(1993)"}', 'activityName': 'com.douban.movie.app.SubjectActivity', 'params': '{"movieID":"1316510"}', 'documentId': 'webpage_com_douban_movie_12', 'year': '(1993)', 'name': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'title': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'score': '8.7', 'webUrl': 'https://movie.douban.com/subject/1316510/', 'packageName': 'com.douban.movie', 'crawlTimestamp': '1483798928162'}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+2017-01-16 15:16:06,977 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': -880003792377644628, 'ts': Timestamp(1484550904, 9), 'o': {'information': '导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532', 'from_app': 'webpage_com_douban_movie', 'name': '血战钢锯岭 Hacksaw Ridge', 'documentId': 'webpage_com_douban_movie_10', 'comments': [{'author': 'Leony', 'text': '想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。', 'time': ''}, {'author': '冷杉', 'text': '美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹', 'time': ''}, {'author': '王大根', 'text': '3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。', 'time': ''}, {'author': '二月鸟语', 'text': '8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！', 'time': ''}], 'type': 'Movie', 'content': '{"information": "导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532", "name": "血战钢锯岭 Hacksaw Ridge", "introduction": "\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……", "comments": [{"text": "想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。", "time": "", "author": "Leony"}, {"text": "美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹", "time": "", "author": "冷杉"}, {"text": "3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。", "time": "", "author": "王大根"}, {"text": "8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！", "time": "", "author": "二月鸟语"}], "score": "8.8", "year": "(2016)"}', 'crawlTimestamp': '1483798923107', 'params': '{"movieID":"26325320"}', 'year': '(2016)', 'title': '血战钢锯岭 Hacksaw Ridge', 'score': '8.8', 'introduction': '\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……', 'webUrl': 'https://movie.douban.com/subject/26325320/', 'webUrlMd5': '436D1DA360F296CB2D31B573AEFB28A7', 'packageName': 'com.douban.movie', 'activityName': 'com.douban.movie.app.SubjectActivity'}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+2017-01-16 15:16:07,116 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': -615687525594071003, 'ts': Timestamp(1484550904, 11), 'o': {'information': '导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074', 'from_app': 'webpage_com_douban_movie', 'introduction': '\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。', 'documentId': 'webpage_com_douban_movie_12', 'comments': [{'author': 'Ruby超人小姐', 'text': '看不懂【东邪西毒】的时候就看【东成西就】。', 'time': ''}, {'author': '狮子真好吃啊', 'text': '梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了', 'time': ''}, {'author': 'MIFFYGAGA', 'text': '向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!', 'time': ''}, {'author': '苏比', 'text': '还是不喜欢。', 'time': ''}], 'type': 'Movie', 'content': '{"information": "导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074", "name": "射雕英雄传之东成西就 射鵰英雄傳之東成西就", "introduction": "\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。", "comments": [{"text": "看不懂【东邪西毒】的时候就看【东成西就】。", "time": "", "author": "Ruby超人小姐"}, {"text": "梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了", "time": "", "author": "狮子真好吃啊"}, {"text": "向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!", "time": "", "author": "MIFFYGAGA"}, {"text": "还是不喜欢。", "time": "", "author": "苏比"}], "score": "8.7", "year": "(1993)"}', 'activityName': 'com.douban.movie.app.SubjectActivity', 'params': '{"movieID":"1316510"}', 'year': '(1993)', 'name': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'title': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'score': '8.7', 'webUrl': 'https://movie.douban.com/subject/1316510/', 'webUrlMd5': 'D02F5A1F3D69FB457C73C28C80524E5D', 'packageName': 'com.douban.movie', 'crawlTimestamp': '1483798928162'}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+2017-01-16 15:19:00,066 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': 8168029619237480560, 'ts': Timestamp(1484550946, 109), 'o': {'information': '导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532', 'from_app': 'webpage_com_douban_movie', 'name': '血战钢锯岭 Hacksaw Ridge', 'webUrlMd5': '436D1DA360F296CB2D31B573AEFB28A7', 'comments': [{'author': 'Leony', 'text': '想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。', 'time': ''}, {'author': '冷杉', 'text': '美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹', 'time': ''}, {'author': '王大根', 'text': '3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。', 'time': ''}, {'author': '二月鸟语', 'text': '8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！', 'time': ''}], 'type': 'Movie', 'content': '{"information": "导演: 梅尔·吉布森 编剧: 安德鲁·奈特 / 罗伯特·申坎 主演: 安德鲁·加菲尔德 / 萨姆·沃辛顿 / 文斯·沃恩 / 雨果·维文 / 卢克·布雷西 / 泰莉莎·帕尔墨 / 瑞切尔·格里菲斯 / 纳撒尼尔·布佐尼克 / 理查德·劳斯伯格 / 马特·纳夫莱 / 费拉斯·迪拉尼 / 瑞安·柯尔 / 卢克·佩格勒更多... 类型: 剧情 / 动作 / 传记 / 历史 / 战争 官方网站: www.hacksawridge.movie/ 制片国家/地区: 美国 / 澳大利亚 语言: 英语 上映日期: 2016-12-08(中国大陆) / 2016-11-04(美国) 片长: 139分钟(中国大陆) / 140分钟(美国) 又名: 钢锯岭 / 钢铁英雄(台) / The Conscientious Objector IMDb链接: tt2119532", "name": "血战钢锯岭 Hacksaw Ridge", "introduction": "\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……", "comments": [{"text": "想了半天终于想通为什么R级片可以一刀未剪过审。可能就是因为主题是抗日吧，左边一个日本人爆炸，右边一个美帝人开花。广电领导觉得狗咬狗很好很强大，符合社会主义强国价值观。", "time": "", "author": "Leony"}, {"text": "美国抗日神剧：乡巴佬，不杀人，信上帝，救队友。前一小时几乎让人睡着，而且新兵营抄袭<全金属外壳>,全片最好的就是战争场面, 剪辑不错，音效很好，配乐能给老美煽哭。视觉特效五毛，特效化妆能让你把晚饭吐出来。适合那些从没在电影院看过什么正经战争片的观众。槽点密集,比如日军到悬崖边不扔手榴弹", "time": "", "author": "冷杉"}, {"text": "3.5，救人那段确实挺燃的，但别的部分掐了手心一百多次才没睡去。美国抗日片里的日本人比中国抗日片里的还不像人啊。", "time": "", "author": "王大根"}, {"text": "8.1/点映，看起来在讲信仰，事实上确实是在讲信仰，很普世的主题，他在讲美国人需要信仰的时候也在讲日本人的信仰，战争场面很真实也很残酷！不知道用120帧/4K拍出来会不会有人跑出电影院，战争是一场噩梦，旁边的朋友被吓到哭又感动到哭！结尾真人眼神里的坚定和从容已经说明一切了！", "time": "", "author": "二月鸟语"}], "score": "8.8", "year": "(2016)"}', 'crawlTimestamp': '1483798923107', 'params': '{"movieID":"26325320"}', 'documentId': 'webpage_com_douban_movie_10', 'year': '(2016)', 'title': '血战钢锯岭 Hacksaw Ridge', 'score': '8.8', 'introduction': '\u3000\u30001945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳，等待他们的则是敌军重兵防守、凶险异常的钢锯岭。在这群人中间，却有一个不愿拿起武器的军医。他名叫戴斯蒙德·道斯（安德鲁·加菲尔德 Andrew Garfield 饰），来自美国的弗吉尼亚。太平洋爆发之际，瘦弱的戴斯蒙德志愿成为救死扶伤的军医而应征入伍。可因童年和家庭的原因，他始终不愿拿起枪支操练，为此宁愿背上拒服兵役的罪名被送上军事法庭。几经周折，戴斯蒙德最终和战友来到了钢锯岭。枪林弹雨，转瞬之间无数人应声倒地。在信仰和信念的支持下，戴斯蒙德仅凭一己之力拯救了数十条濒死的生命……', 'webUrl': 'https://movie.douban.com/subject/26325320/', 'packageName': 'com.douban.movie', 'activityName': 'com.douban.movie.app.SubjectActivity'}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+2017-01-16 15:19:00,164 [ERROR] mongo_connector.oplog_manager:324 - Unable to process oplog document {'ns': 'DeepSearch.movie', 'op': 'i', 'v': 2, 'h': -8866544600057348903, 'ts': Timestamp(1484550946, 111), 'o': {'information': '导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074', 'from_app': 'webpage_com_douban_movie', 'introduction': '\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。', 'webUrlMd5': 'D02F5A1F3D69FB457C73C28C80524E5D', 'comments': [{'author': 'Ruby超人小姐', 'text': '看不懂【东邪西毒】的时候就看【东成西就】。', 'time': ''}, {'author': '狮子真好吃啊', 'text': '梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了', 'time': ''}, {'author': 'MIFFYGAGA', 'text': '向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!', 'time': ''}, {'author': '苏比', 'text': '还是不喜欢。', 'time': ''}], 'type': 'Movie', 'content': '{"information": "导演: 刘镇伟 编剧: 刘镇伟 主演: 梁朝伟 / 林青霞 / 张国荣 / 叶玉卿 / 张学友 / 王祖贤 / 张曼玉 / 梁家辉 / 刘嘉玲 / 钟镇涛 / 鲍起静更多... 类型: 喜剧 / 古装 制片国家/地区: 香港 语言: 粤语 上映日期: 1993-02-05 片长: 100 分钟 / Hong Kong: 113 分钟 又名: 东成西就 / 大英雄 (日本) / The Eagle Shooting Heroes IMDb链接: tt0108074", "name": "射雕英雄传之东成西就 射鵰英雄傳之東成西就", "introduction": "\u3000\u3000金轮国王妃（叶玉卿）与表哥欧阳锋（梁朝伟）有染，为霸占江山，他们毒死了国王，但没找到传国玉玺。得知玉玺在前往九宫山找寻其师父求助的三公主（林青霞）手里后，欧阳锋企图抢到手但没成功。糊涂国师（张曼玉）在淫威下屈服，查出三公主的具体下落，欧阳锋乘火箭金靴追赶，却误脱落一只插死刚出关的王重阳（钟镇涛），奄奄一息的王重阳恳求适逢路过的三公主找到其师弟周伯通（刘嘉玲）代为报仇。", "comments": [{"text": "看不懂【东邪西毒】的时候就看【东成西就】。", "time": "", "author": "Ruby超人小姐"}, {"text": "梁家辉和刘嘉玲是亮点，特别是后者，我简直被惊艳了", "time": "", "author": "狮子真好吃啊"}, {"text": "向90年代的香港喜剧片儿致敬!多少年后,他们仍是挂在嘴边最活络气氛的谈资!", "time": "", "author": "MIFFYGAGA"}, {"text": "还是不喜欢。", "time": "", "author": "苏比"}], "score": "8.7", "year": "(1993)"}', 'crawlTimestamp': '1483798928162', 'params': '{"movieID":"1316510"}', 'documentId': 'webpage_com_douban_movie_12', 'year': '(1993)', 'name': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'title': '射雕英雄传之东成西就 射鵰英雄傳之東成西就', 'score': '8.7', 'webUrl': 'https://movie.douban.com/subject/1316510/', 'packageName': 'com.douban.movie', 'activityName': 'com.douban.movie.app.SubjectActivity'}}
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+elasticsearch.exceptions.RequestError: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/oplog_manager.py", line 303, in run
+    docman.upsert(doc, ns, timestamp)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 43, in wrapped
+    reraise(new_type, exc_value, exc_tb)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/compat.py", line 9, in reraise
+    raise exctype(str(value)).with_traceback(trace)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/util.py", line 32, in wrapped
+    return f(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/mongo_connector/doc_managers/elastic2_doc_manager.py", line 182, in upsert
+    refresh=(self.auto_commit_interval == 0))
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/utils.py", line 69, in _wrapped
+    return func(*args, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/client/__init__.py", line 279, in index
+    _make_path(index, doc_type, id), params=params, body=body)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/transport.py", line 327, in perform_request
+    status, headers, data = connection.perform_request(method, url, params, body, ignore=ignore, timeout=timeout)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/http_urllib3.py", line 109, in perform_request
+    self._raise_error(response.status, raw_data)
+  File "/usr/local/lib/python3.5/dist-packages/elasticsearch/connection/base.py", line 113, in _raise_error
+    raise HTTP_EXCEPTIONS.get(status_code, TransportError)(status_code, error_message, additional_info)
+mongo_connector.errors.OperationFailed: TransportError(400, 'mapper_parsing_exception', 'failed to parse [comments]')

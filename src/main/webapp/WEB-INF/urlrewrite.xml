@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 3.2//EN" "\\urlrewrite3.2.dtd">
+  
+<urlrewrite use-query-string ="true">
+  
+<!--   <rule>
+    <note>重写index.jsp成index.html</note>
+    <note>example：/index.html</note>
+    <from>/index.html</from>
+    <to type="forward">/index.jsp</to>
+  </rule>
+  
+  <rule>
+    <note>将view根目录下所有jsp资源重写成/xxx.action</note>
+    <note>example：/index.action</note>
+    <from>/([A-Za-z0-9]+).action</from>
+    <to type="forward">/view/$1.jsp</to>
+  </rule> -->
+  
+<!--   <rule>
+    <note>forward(转发模式)传参</note>
+    <note>example：/user/param/fancy/8080.do</note>
+    <from>/user/([A-Za-z0-9]+)/([A-Za-z0-9]+)/([A-Za-z0-9]+).do</from>
+    <to type="forward">/view/parameter/$1.jsp?username=$2&amp;password=$3</to>
+  </rule> -->
+  
+  <rule>
+    <note>example</note>
+    <note>example：/api/search?typeName=res...</note>
+    <from>^/DeepSearch/api/search\?(.*)$</from>
+    <to type="forward">/DeepSearch/api/searchAPIAction!search.action?$1</to>
+  </rule>
+  
+  <rule>
+    <note>example</note>
+    <note>example：/api/search?typeName=res...</note>
+    <from>^/api/trans$</from>
+    <to type="redirect">/DeepSearch/api/searchAPIAction!trans.action</to>
+  </rule>
+  
+</urlrewrite>

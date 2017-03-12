@@ -1,0 +1,61 @@
+.pagination {
+	text-align: center
+}
+
+.pagination li {
+	display: inline-block;
+	float: none
+}
+
+.pagination li.active {
+	color: #FFFFFF
+}
+
+.search-result em {
+	color: #c62828;
+	font-style: normal;
+	font-weight: bold
+}
+
+.search-result p.cite {
+	color: #388e3c
+}
+
+.collapsible li {
+	opacity: 0
+}
+
+.collapsible-body {
+	overflow-x: auto
+}
+
+.result-highlight {
+	color: #c62828;
+	font-style: normal;
+	font-weight: bold
+}
+
+.search-autocomplate.collection {
+	display: none;
+	position: absolute;
+	z-index: 100
+}
+
+.card-panel {
+	transition: box-shadow .25s;
+	padding: 20px;
+	margin: 0.5rem 0 1rem 0;
+	border-radius: 2px;
+	background-color: #fff
+}
+.hoverable:hover {
+	transition: box-shadow .25s;
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.19)
+}
+
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large,
+	.btn-floating, .dropdown-content, .collapsible, .side-nav {
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0
+		rgba(0, 0, 0, 0.12)
+}
