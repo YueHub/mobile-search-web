@@ -19,7 +19,7 @@ import cn.lcy.mobilesearch.es.api.service.APIDataSetServiceImpl;
 @Namespace("/api")
 @Action(value = "dataset")
 @Results({
-    @Result(name = "dataset_result", location = "/api/dataset_result.jsp")
+    @Result(name = "dataset_result", location = "/api/dataset_result.jsp", type="redirect")
     }) 
 public class DataSetAPIAction extends BaseAction implements SessionAware {
 
@@ -63,11 +63,14 @@ public class DataSetAPIAction extends BaseAction implements SessionAware {
         
         Pattern pattern = Pattern.compile("[0-9]*"); 
         Matcher isNum = pattern.matcher(size);
-        if(!isNum.matches()) {
+        DataSet dataSet = new DataSet();
+        if(isNum.matches() || "all".equals(size)) {
+            dataSet = apiDataSetService.getDataSet(indexName, typeName, fieldName, size);
+        }  else {
             this.writeJson("<span font-size:15px;>size应该为数字或all 样例:http://60.205.139.71:8080/MobileSearch/api/dataset/restaurant/name?size=1000<span>");
             throw new Exception("size应该为数字或all　样例：http://60.205.139.71:8080/MobileSearch/api/dataset/restaurant/name?size=1000");
-        } 
-        DataSet dataSet = apiDataSetService.getDataSet(indexName, typeName, fieldName, size);
+        }
+       
         this.writeJson(dataSet);
         return "dataset_result";
     }
