@@ -10,7 +10,7 @@ import java.net.URLConnection;
 public class DemoTest {
 
 	public static void main(String args[]) throws Exception {
-		 download("http://f.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=32f950919c504fc2a25fb703dde6802c/b151f8198618367ac763a34429738bd4b21ce545.jpg", "test.jpg","i:\\image\\");  
+	    download("http://f.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=32f950919c504fc2a25fb703dde6802c/b151f8198618367ac763a34429738bd4b21ce545.jpg", "test.jpg","i:\\image\\");  
 	}
 	
 	 public static void download(String urlString, String filename,String savePath) throws Exception {

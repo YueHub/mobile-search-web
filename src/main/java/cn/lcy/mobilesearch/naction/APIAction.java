@@ -161,31 +161,31 @@ public class APIAction extends BaseAction implements SessionAware {
 		return "search_result";
 	}
 	
-	public String trans() throws IOException {
-		if(DataSourceTransToEs.count == 0) {
-			DataSourceTransToEs.MySqlToES();
-		}
-		ServletActionContext.getResponse().setContentType("text/html;charset=utf-8");
-		try {
-			ServletActionContext.getResponse().getWriter().write(String.valueOf(DataSourceTransToEs.count));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return "trans_result";
-	}
-	
-	public String transToMongo() throws IOException {
-		if(DataSourceTransToMongoDB.count == 0) {
-			DataSourceTransToMongoDB.MySqlToMongoDB();
-		}
-		ServletActionContext.getResponse().setContentType("text/html;charset=utf-8");
-		try {
-			ServletActionContext.getResponse().getWriter().write(String.valueOf(DataSourceTransToMongoDB.count));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return "trans_result";
-	}
+//	public String trans() throws IOException {
+//		if(DataSourceTransToEs.count == 0) {
+//			DataSourceTransToEs.MySqlToES();
+//		}
+//		ServletActionContext.getResponse().setContentType("text/html;charset=utf-8");
+//		try {
+//			ServletActionContext.getResponse().getWriter().write(String.valueOf(DataSourceTransToEs.count));
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//		return "trans_result";
+//	}
+//	
+//	public String transToMongo() throws IOException {
+//		if(DataSourceTransToMongoDB.count == 0) {
+//			DataSourceTransToMongoDB.MySqlToMongoDB();
+//		}
+//		ServletActionContext.getResponse().setContentType("text/html;charset=utf-8");
+//		try {
+//			ServletActionContext.getResponse().getWriter().write(String.valueOf(DataSourceTransToMongoDB.count));
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//		return "trans_result";
+//	}
 	
 	public String getSearchQuery() {
 		return searchQuery;

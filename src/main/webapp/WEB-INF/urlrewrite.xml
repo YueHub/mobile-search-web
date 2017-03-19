@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 3.2//EN" "\\urlrewrite3.2.dtd">
-  
+
+
 <urlrewrite use-query-string ="true">
   
 <!--   <rule>
@@ -24,18 +24,11 @@
     <to type="forward">/view/parameter/$1.jsp?username=$2&amp;password=$3</to>
   </rule> -->
   
-  <rule>
-    <note>example</note>
-    <note>example：/api/search?typeName=res...</note>
-    <from>^/DeepSearch/api/search\?(.*)$</from>
-    <to type="forward">/DeepSearch/api/searchAPIAction!search.action?$1</to>
-  </rule>
-  
-  <rule>
-    <note>example</note>
-    <note>example：/api/search?typeName=res...</note>
-    <from>^/api/trans$</from>
-    <to type="redirect">/DeepSearch/api/searchAPIAction!trans.action</to>
+  <rule match-type="wildcard">
+    <note>DataSet</note>
+    <note>example：/api/search/typeName/fieldName$</note>
+    <from>/api/dataset/*/*\?size=*</from>
+    <to type="redirect">/MobileSearch/api/dataset!get.action?typeName=$1&amp;fieldName=$2&amp;size=$3</to>
   </rule>
   
 </urlrewrite>
