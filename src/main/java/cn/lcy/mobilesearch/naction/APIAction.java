@@ -1,6 +1,5 @@
 package cn.lcy.mobilesearch.naction;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -25,8 +24,6 @@ import cn.lcy.mobilesearch.log.OperationAttrEnum;
 import cn.lcy.mobilesearch.log.OperationEnum;
 import cn.lcy.mobilesearch.log.OperationObjectEnum;
 import cn.lcy.mobilesearch.log.UserOperationLog;
-import cn.lcy.mobilesearch.trans.util.DataSourceTransToEs;
-import cn.lcy.mobilesearch.trans.util.DataSourceTransToMongoDB;
 
 @ParentPackage("basePackage")
 @Namespace("/api")
