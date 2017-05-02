@@ -80,6 +80,7 @@ public class APIDataSetDAOImpl implements APIDataSetDAOI {
         DataSet dataSet = new DataSet();
         dataSet.setCount(results.size());
         dataSet.setResults(results);
+        client.close();
         return dataSet;
     }
 }
