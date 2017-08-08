@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@taglib uri="/struts-tags" prefix="s"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,14 +20,14 @@
 	
 </head>
 <body>
-	<div class="logo-main" onclick="document.location='mobile_index.jsp'">
+	<div class="logo-main" onclick="document.location='mobile_index.html'">
 		<%-- <div class="circle" style="float:left;">
 			<h1></h1>
 		</div>
 		<div style="cursor:hand;">
 			<span class="logo-title" style="margin-left:30px;">燕云搜索</span>
 		</div> --%>
-		<a href="mobile_index.jsp"><img id="logo" alt="logo" src="./imgs/logo/logo.png" /></a>
+		<a href="mobile_index.html"><img id="logo" alt="logo" src="./imgs/logo/logo.png" /></a>
 	</div>
 	
 	<div class="search-main">
@@ -43,7 +41,7 @@
 			<!-- <div id="dc"></div> -->
 		</div>
 		<div class="search-input mobile-line">
-			<form id="search-form" action="mobile_result.jsp" target="_self">
+			<form id="search-form" action="mobile_result.html" target="_self">
 				<input class="search-query" id="search-query" name="searchQuery" 
 					placeholder=" 外卖 / 商品 / 团购券 / 新闻..."
 					autocorrect="on"
@@ -57,7 +55,7 @@
 		
 		<!-- 搜索导航栏 -->
 		<ul class="nav-category">
-			<li><a class="movie-link" href="mobile_result.jsp">全部</a></li>
+			<li><a class="movie-link" href="mobile_result.html">全部</a></li>
 			<li><a class="movie-link" href="mobile_result.jsp?typeName=movie">电影</a></li>
 			<li><a class="video-link" href="mobile_result.jsp?typeName=video">视频</a></li>
 			<li><a class="restaurant-link" href="mobile_result.jsp?typeName=restaurant">外卖</a></li>

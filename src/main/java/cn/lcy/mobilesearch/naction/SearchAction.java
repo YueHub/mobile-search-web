@@ -21,7 +21,7 @@ import cn.lcy.mobilesearch.log.UserOperationLog;
 @Namespace("/front")
 @Action(value = "searchAction")
 @Results({
-	@Result(name = "mobile_result", location = "/front/mobile_result.jsp")
+	@Result(name = "mobile_result", location = "/front/mobile_result.html")
 	}) 
 public class SearchAction extends BaseAction implements SessionAware{
 
