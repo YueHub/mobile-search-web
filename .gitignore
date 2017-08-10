@@ -5,3 +5,4 @@
 /bin
 /target/
 /logs/
+/src/main/webapp/front/node_modules
