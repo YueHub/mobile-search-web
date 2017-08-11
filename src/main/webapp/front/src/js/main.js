@@ -263,3 +263,46 @@ function getLocation() {
          },{enableHighAccuracy: true})
      }
 }
+
+$("document").ready(function () {
+			getLocation();	// 获取地理位置
+			var searchQuery = GetQueryString("searchQuery");
+		   	$(".nav-category li a").each(function () {
+				$(this).click(function () {
+					search($(this).attr("class").split("-")[0]);	
+				});
+		   	});
+			
+			if(searchQuery != null || searchQuery != "") {
+			   $("#search-query").val(searchQuery);
+			}
+			search();
+		});
+		$("#search-query").keydown(function(e){
+			var curKey = e.which;
+			if(curKey == 13) {
+				/* $("#回车事件按钮控件").click(); */
+				search();
+				return false;
+			}
+		});
+		$("#search").click(function (){
+			search();
+		});
+		
+		var params = {
+	    		"XOffset":2, //提示框位置横向偏移量,单位px
+	    		"YOffset":0, //提示框位置纵向偏移量,单位px
+	    		"width":350, //提示框宽度，单位px
+	    		"fontColor":"black", //提示框文字颜色
+	    		"fontColorHI":"black", //提示框高亮选择时文字颜色
+	    		"fontSize":"13px", //文字大小
+	    		"fontFamily":"sans-serif", //文字字体
+	    		"borderColor":"#757373", //提示框的边框颜色
+	    		"bgcolorHI":"#b0aeae", //提示框高亮选择的颜色
+	    		"sugSubmit":false //选中提示框中词条时是否提交表单
+	    };
+		function confirmCallback() {
+			
+		}
+	   	BaiduSuggestion.bind("suggests", params, confirmCallback);
