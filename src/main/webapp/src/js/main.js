@@ -1,5 +1,5 @@
-
-import * as template from "./template/template.js"
+import $ from "jquery";
+import * as template from "./template/template.js";
 
 // 分类模板
 function createTempletWithCategroy() {
