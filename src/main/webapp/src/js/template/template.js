@@ -1,5 +1,4 @@
 
-
 /* 电影模板 */
 export function movieTemplet(data) {
 	var categroy = "<div class=\"categroy movie\">"

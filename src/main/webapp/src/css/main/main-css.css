@@ -54,7 +54,7 @@ td, th {
 .l {
 	margin: auto;
 	background-repeat: no-repeat;
-	background-image: url(../MagiImage/assets.png);
+
 }
 
 .search-query {
@@ -132,7 +132,6 @@ td, th {
 	height: 10px;
 	margin-right: 9px;
 	margin-top: 16px;
-	background-image: url(../MagiImage/assets.png);
 	background-position: 0 0;
 	background-size: 304px 128px;
 	background-repeat: no-repeat
@@ -145,7 +144,6 @@ td, th {
 	margin-top: -97px;
 	margin-right: 11px;
 	height: 30px;
-	background-image: url(../MagiImage/assets.png);
 	background-position: -11px 0;
 	background-size: 304px 128px;
 	background-repeat: no-repeat
@@ -174,7 +172,6 @@ td, th {
 	height: 23px;
 	margin-top: 9px;
 	margin-left: 15px;
-	background-image: url(../MagiImage/assets.png);
 	background-position: -134px 0;
 	background-size: 304px 128px;
 	background-repeat: no-repeat
@@ -186,159 +183,6 @@ td, th {
 	font-style: italic;
 	border-bottom: 1px solid #c7c7c7
 }
-
-/* @
-keyframes efd { 0%,5%{
-	color: rgba(0, 0, 0, 0)
-}
-
-10%,90%{
-color
-
-
-
-
-:
-
-
-
-
-#494949
-
-
-
-
-}
-100%,95%{
-color
-
-
-
-
-:rgba
-
-
-
-
-(0
-,
-0,0,0)
-}
-}
-@
--moz-keyframes efd { 0%,5%{
-	color: rgba(0, 0, 0, 0)
-}
-
-10%,90%{
-color
-
-
-
-
-:
-
-
-
-
-#494949
-
-
-
-
-}
-100%,95%{
-color
-
-
-
-
-:rgba
-
-
-
-
-(0
-,
-0,0,0)
-}
-}
-@
--webkit-keyframes efd { 0%,5%{
-	color: rgba(0, 0, 0, 0)
-}
-
-10%,90%{
-color
-
-
-
-
-:
-
-
-
-
-#494949
-
-
-
-
-}
-100%,95%{
-color
-
-
-
-
-:rgba
-
-
-
-
-(0
-,
-0,0,0)
-}
-}
-@
--o-keyframes efd { 0%,5%{
-	color: rgba(0, 0, 0, 0)
-}
-
-10%,90%{
-color
-
-
-
-
-:
-
-
-
-
-#494949
-
-
-
-
-}
-100%,95%{
-color
-
-
-
-
-:rgba
-
-
-
-
-(0
-,
-0,0,0)
-}
-} */
 #logo {
 	width: 100%;
 	height: 100%;
@@ -595,7 +439,6 @@ p.cite {
 		display: inline-block;
 		margin: auto;
 		margin-top: 9px;
-		background-image: url(../MagiImage/assets.png);
 		width: 94px;
 		height: 11px;
 		background-position: -40px 0;
@@ -842,7 +685,6 @@ p.cite {
 		display: inline-block;
 		margin: auto;
 		margin-top: 9px;
-		background-image: url(../MagiImage/assets.png);
 		width: 94px;
 		height: 11px;
 		background-position: -40px 0;
@@ -1097,7 +939,6 @@ p.cite {
 		display: inline-block;
 		margin: auto;
 		margin-top: 11px;
-		background-image: url(../MagiImage/assets.png);
 		width: 94px;
 		height: 11px;
 		background-position: -40px 0;
@@ -1425,7 +1266,6 @@ p.cite {
 	width: 67px;
 	height: 35px;
 	display: block;
-	background-image: url(../MagiImage/assets.png);
 	background-repeat: no-repeat;
 	background-size: 67px 15px;
 	background-position: 0 10px
@@ -1483,7 +1323,6 @@ p.cite {
 	margin-top: 6px;
 	background-repeat: no-repeat;
 	background-size: 120px 160px;
-	background-image: url(../MagiImage/bicons.png);
 }
 
 .ct {

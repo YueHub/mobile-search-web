@@ -1,3 +1,7 @@
+// 导入 css
+import "../css/main/main-css.css"
+
+
 import $ from "jquery";
 import * as template from "./template/template.js";
 
@@ -160,13 +164,13 @@ function createTempletWithOutCategroy(data) {
     });
 	
 	$(".slide-movie").click(function(){
-		  if($(".more-movie").css("display") == "none") {
-			  $(".more-movie").slideDown();
-			  $(".slide-text-movie").text("折叠");
-		  } else {
-			  $(".more-movie").slideUp();
-			  $(".slide-text-movie").text("展开▾");
-		  }
+		if($(".more-movie").css("display") == "none") {
+			$(".more-movie").slideDown();
+			$(".slide-text-movie").text("折叠");
+		} else {
+			$(".more-movie").slideUp();
+			$(".slide-text-movie").text("展开▾");
+		}
 	});
 }
 
