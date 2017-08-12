@@ -142,7 +142,7 @@ export function movieTemplet(data) {
 			  $(".slide-text-movie").text("展开▾");
 		  }
 	});
-}
+};
 
 /* 视频模板 */
 export function videoTemplet(data) {
@@ -279,14 +279,12 @@ export function videoTemplet(data) {
 			  $(".slide-text-video").text("展开▾");
 		  }
 	});
-}
+};
 
 /* 音乐模板 */
 export function　musicTemplet(data) {
 	
-	
-	
-}
+};
 
 /* 外卖模板 */
 export function waimaiTemplet(data) {
@@ -462,7 +460,7 @@ export function waimaiTemplet(data) {
 			  $(".slide-text-waimai").text("展开▾");
 		  }
 	});
-}
+};
 
 /* 商品模板 */
 export function productTemplet(data) {
@@ -600,7 +598,7 @@ export function productTemplet(data) {
 		  $(".slide-text-product").text("展开▾");
 	  }
 	});
-}
+};
 
 /* 新闻模板 */
 export function newsTemplet(data) {
@@ -737,7 +735,7 @@ export function newsTemplet(data) {
 		  $(".slide-text-news").text("展开▾");
 	  }
 	});
-}
+};
 
 /* 团购模板 */
 export function couponTemplet(data) {
@@ -901,6 +899,6 @@ export function couponTemplet(data) {
 		  $(".slide-text-coupon").text("展开▾");
 	  }
 	});
-}
+};
 
 /* 知识模板 */
