@@ -1,6 +1,8 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CleanWebpackPlugin = require("clean-webpack-plugin");
+const ExtractTextPlugin = require("extract-text-webpack-plugin");
+
 
 module.exports = {
     entry: {
@@ -11,7 +13,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, "./dist"),
         filename: "js/[name]/bundle.js",
-    },    
+    },
     devtool: "inline-source-map", // debug 
     devServer: {
         contentBase: path.join(__dirname, "./dist"),
@@ -33,8 +35,12 @@ module.exports = {
             template: "./src/mobile_result.html",
             filename: "mobile_result.html",
             showErrors: true,
-            inject: "body"
-        })
+            inject: "body",
+        }), 
+        new ExtractTextPlugin({
+            filename: "css/[name]/style.css"
+        }),
+        
     ],
     module: {
         rules: [
@@ -47,10 +53,10 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                use: [
-                    "style-loader",
-                    "css-loader"
-                ]
+                use: ExtractTextPlugin.extract({
+                    fallback: "style-loader",
+                    use: "css-loader"
+                })
             },
             {
                 test: /\.(png|svg|jpg|gif|woff|woff2|eot|ttf|otf)$/,

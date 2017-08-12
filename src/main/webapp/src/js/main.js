@@ -1,7 +1,6 @@
 // 导入 css
 import "../css/main/main-css.css"
 
-
 import $ from "jquery";
 import * as template from "./template/template.js";
 
