@@ -6,9 +6,9 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
     entry: {
-        "main": "./src/js/main.js",
-        "libs": ["./src/js/libs/jquery.page.js", "./src/js/libs/tagcanvas.min.js"],
-        "model-select": ["./src/js/model-select/fancy-select.js"]
+        "main": "./src/pages/js/main.js",
+        "libs": ["./src/pages/js/libs/jquery.page.js", "./src/pages/js/libs/tagcanvas.min.js"],
+        "model-select": ["./src/pages/js/model-select/fancy-select.js"]
     },
     output: {
         path: path.resolve(__dirname, "./dist"),
@@ -25,20 +25,20 @@ module.exports = {
         new CleanWebpackPlugin(["dist"]),
         new HtmlWebpackPlugin({
             title: "燕云搜索",
-            template: "./src/mobile_index.html",
+            template: "./src/pages/mobile_index.html",
             filename: "mobile_index.html",
             showErrors: true,
             inject: 'body',
         }),
         new HtmlWebpackPlugin({
             title: "燕云搜索",
-            template: "./src/mobile_result.html",
+            template: "./src/pages/mobile_result.html",
             filename: "mobile_result.html",
             showErrors: true,
             inject: "body",
         }), 
         new ExtractTextPlugin({
-            filename: "css/[name]/style.css"
+            filename: "css/pages/[name]/style.css"
         }),
         
     ],

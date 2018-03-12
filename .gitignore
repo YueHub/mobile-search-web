@@ -1,8 +1,12 @@
 .settings
 .classpath
 .project
-/docs
+/docs/developDocs
 /bin
 /target/
 /logs/
 /src/main/webapp/node_modules
+
+/.idea/workspace.xml
+/.idea/libraries
+mobile-search-web.iml

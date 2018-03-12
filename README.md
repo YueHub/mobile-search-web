@@ -1,6 +1,11 @@
 # MobileSearch
-移动搜索引擎-MobileSearch
+> 移动搜索引擎 Web 端系统 - mobile-search-web
 
 针对移动应用数据搜索的移动搜索引擎．
 
-![image](https://github.com/YueHub/MobileSearch/blob/master/screenShots/移动搜索-运行截图1.png)
+## 系统运行截图
+* 搜索结果
+![image](./screenShots/移动搜索-运行截图1.png)
+
+### License
+[MIT License](https://github.com/YueHub/mobile-search-web/blob/master/LICENSE.md)
