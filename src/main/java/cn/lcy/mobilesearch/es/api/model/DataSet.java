@@ -3,9 +3,9 @@ package cn.lcy.mobilesearch.es.api.model;
 import java.util.List;
 
 public class DataSet {
-    
+
     private long count;
-    
+
     private List<String> results;
 
     public long getCount() {

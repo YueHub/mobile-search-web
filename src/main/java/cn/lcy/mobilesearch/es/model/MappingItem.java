@@ -4,28 +4,28 @@ import java.util.Map;
 
 public class MappingItem {
 
-	private String fieldName;
-	
-	// TODO 枚举
-	private Map<String, String> setting;
+    private String fieldName;
 
-	public String getFieldName() {
-		return fieldName;
-	}
+    // TODO 枚举
+    private Map<String, String> setting;
 
-	public void setFieldName(String fieldName) {
-		this.fieldName = fieldName;
-	}
+    public String getFieldName() {
+        return fieldName;
+    }
 
-	public Map<String, String> getSetting() {
-		return setting;
-	}
+    public void setFieldName(String fieldName) {
+        this.fieldName = fieldName;
+    }
 
-	public void setSetting(Map<String, String> setting) {
-		this.setting = setting;
-	}
-	
-	// 其他设置
-	
-	
+    public Map<String, String> getSetting() {
+        return setting;
+    }
+
+    public void setSetting(Map<String, String> setting) {
+        this.setting = setting;
+    }
+
+    // 其他设置
+
+
 }

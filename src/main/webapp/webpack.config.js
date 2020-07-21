@@ -36,11 +36,11 @@ module.exports = {
             filename: "mobile_result.html",
             showErrors: true,
             inject: "body",
-        }), 
+        }),
         new ExtractTextPlugin({
             filename: "css/pages/[name]/style.css"
         }),
-        
+
     ],
     module: {
         rules: [

@@ -10,8 +10,7 @@
         <module name="mobile-search-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mobile-search" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
       <module name="mobile-search-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>

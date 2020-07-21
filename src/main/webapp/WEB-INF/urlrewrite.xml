@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<urlrewrite use-query-string ="true">
-  
-<!--   <rule>
-    <note>重写index.jsp成index.html</note>
-    <note>example：/index.html</note>
-    <from>/index.html</from>
-    <to type="forward">/index.jsp</to>
-  </rule>
-  
-  <rule>
-    <note>将view根目录下所有jsp资源重写成/xxx.action</note>
-    <note>example：/index.action</note>
-    <from>/([A-Za-z0-9]+).action</from>
-    <to type="forward">/view/$1.jsp</to>
-  </rule> -->
-  
-<!--   <rule>
-    <note>forward(转发模式)传参</note>
-    <note>example：/user/param/fancy/8080.do</note>
-    <from>/user/([A-Za-z0-9]+)/([A-Za-z0-9]+)/([A-Za-z0-9]+).do</from>
-    <to type="forward">/view/parameter/$1.jsp?username=$2&amp;password=$3</to>
-  </rule> -->
-  
-  <rule match-type="wildcard">
-    <note>DataSet</note>
-    <note>example：/api/search/typeName/fieldName$</note>
-    <from>/api/dataset/*/*\?size=*</from>
-    <to type="redirect">/MobileSearch/api/dataset!get.action?typeName=$1&amp;fieldName=$2&amp;size=$3</to>
-  </rule>
-  
+<urlrewrite use-query-string="true">
+
+	<!--   <rule>
+			<note>重写index.jsp成index.html</note>
+			<note>example：/index.html</note>
+			<from>/index.html</from>
+			<to type="forward">/index.jsp</to>
+		</rule>
+
+		<rule>
+			<note>将view根目录下所有jsp资源重写成/xxx.action</note>
+			<note>example：/index.action</note>
+			<from>/([A-Za-z0-9]+).action</from>
+			<to type="forward">/view/$1.jsp</to>
+		</rule> -->
+
+	<!--   <rule>
+			<note>forward(转发模式)传参</note>
+			<note>example：/user/param/fancy/8080.do</note>
+			<from>/user/([A-Za-z0-9]+)/([A-Za-z0-9]+)/([A-Za-z0-9]+).do</from>
+			<to type="forward">/view/parameter/$1.jsp?username=$2&amp;password=$3</to>
+		</rule> -->
+
+	<rule match-type="wildcard">
+		<note>DataSet</note>
+		<note>example：/api/search/typeName/fieldName$</note>
+		<from>/api/dataset/*/*\?size=*</from>
+		<to type="redirect">/MobileSearch/api/dataset!get.action?typeName=$1&amp;fieldName=$2&amp;size=$3</to>
+	</rule>
+
 </urlrewrite>
